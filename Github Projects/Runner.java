@@ -1,3 +1,11 @@
+/*
+
+*Created By: Walt-20
+*Small grade book program to find individual averages, highest score, and test averages
+*Date Last Updated : 03AUG2021
+
+*/
+
 import java.io.*;
 import java.util.*;
 
